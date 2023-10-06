@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rakesh Magar</h1>
+
+  <h1 align="center">Hi 👋, I'm Rakesh Magar</h1>
   <h3 align="center">Web Developer Enthusiastic (MERN Stack)</h3>
-
   <img align="right" alt="img.gif"
-    src="https://github.com/Magar0/Magar0/assets/35245789/3552f2b4-3bfd-44fe-872b-60d9a9b29155" width="400">
+    src="https://github.com/Magar0/Magar0/assets/35245789/3552f2b4-3bfd-44fe-872b-60d9a9b29155" width="350">
 
+  <br/>
+  <br/>
   - 🌱 I’m currently learning **Full Stack Developer at Alma Better Online.**
 
   - 💬 Ask me about **React JS, Next.js, Node.js**
@@ -15,43 +17,33 @@
 
   - ⚡ Fun fact **K-Drama & Anime Lover**
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/magar0" target="blank"><img align="center"
-        src="https://github.com/Magar0/Magar0/assets/35245789/c6c8ad7c-0b49-4568-b923-acfcfa186c05" alt="icon"
-        height="30" width="40" /></a>
-    <a href="https://instagram.com/rakeshthapa0" target="blank"><img align="center"
-        src="https://github.com/Magar0/Magar0/assets/35245789/1e17d526-c4fb-4075-a93b-3b7e76f74436" alt="icon"
-        height="30" width="40" /></a>
-  </p>
 
-
+---
   # 💻 Languages and Tools :
-  <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-      rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-      href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-        width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-        height="40" /> </a> </p>
+  
+| [<img src='https://github.com/Magar0/Magar0/assets/35245789/f160afc6-3aab-4af7-a64d-381627719f98' height='80' width="250" alt="HTML5, CSS3, JS" title="HTML5,CSS3,JS" />]()|  [<img src='https://github.com/Magar0/Magar0/assets/35245789/85e3f5c2-60e3-4d4c-854b-2386a001a885' height='80' alt="JQuery" title="JQuery" />]()|  [<img src='https://github.com/Magar0/Magar0/assets/35245789/306affb3-22ae-4597-99fd-dbbfcc06c878' title="Tailwind CSS" height='50' alt="JQuery" />]()|  [<img src='https://github.com/Magar0/Magar0/assets/35245789/f37b54c7-915a-4c43-a170-7b6151ec0c6c' title="BootStrap" height='80' alt="JQuery" />]()|  [<img src='https://github.com/Magar0/Magar0/assets/35245789/322390fc-f32c-41d1-84e8-8f00b84bff6c' title="SASS" height='80' alt="JQuery" />]()|
+|---|---|---|---|---|
 
+| [<img src='https://github.com/Magar0/Magar0/assets/35245789/3ddc700d-e1c7-42ad-92f1-a22e188f841e' height='80' alt="ReactJS" title="ReactJS" />]()|  [<img src='https://github.com/Magar0/Magar0/assets/35245789/4d13788b-50a4-4175-9e5e-a6edad41c611' height='80' alt="Next.js" title="Next.js" />]()|  [<img src='https://github.com/Magar0/Magar0/assets/35245789/5e025be5-77c0-4980-bcb1-c1e29be4bb5f' title="Redux" height='80' alt="Redux" />]()|  [<img src='https://github.com/Magar0/Magar0/assets/35245789/3678ae22-131f-4aaa-862b-786363779f25' title="Material UI" height='80' alt="Material UI" />]()| 
+|---|---|---|---|
+
+  ---
   # :fire: My Stats :
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magar0&show_icons=true&locale=en&layout=compact" alt="magar0" />
-      <img src="https://github-readme-stats.vercel.app/api?username=magar0&show_icons=true&locale=en" alt="magar0" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=magar0&show_icons=true&locale=en&layout=compact"
+      alt="magar0" />
+    <img src="https://github-readme-stats.vercel.app/api?username=magar0&show_icons=true&locale=en" alt="magar0" />
   </p>
+
+  ---
+  # 🌐Connect with me:
+  <p align="left">
+    <a href="https://linkedin.com/in/magar0" target="blank"><img align="center"
+        src="https://github.com/Magar0/Magar0/assets/35245789/1ccbdb01-335d-4f84-92dc-f1d8d9406a14" alt="icon"
+        height="50" width="50" /></a>
+    <a href="https://instagram.com/rakeshthapa0" target="blank"><img align="center"
+        src="https://github.com/Magar0/Magar0/assets/35245789/bdf1af79-2cb4-4a87-97e7-1c57e79d908d" alt="icon"
+        height="40" width="40" /></a>
+  </p>
+
