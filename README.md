@@ -45,7 +45,7 @@
     <a href="https://instagram.com/rakeshthapa0" target="blank"><img align="center"
         src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="icon"
         height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href={`mailto:${rakeshmagar0@gmail.com} `} target="blank"><img align="center"
+    <a href="rakeshmagar0@gmail.com" target="blank"><img align="center"
         src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="icon"
         height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/+917002175147/" target="blank"><img align="center"
