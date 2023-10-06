@@ -38,12 +38,18 @@
 
   ---
   # 🌐Connect with me:
-  <p align="left">
+  <p align="center">
     <a href="https://linkedin.com/in/magar0" target="blank"><img align="center"
         src="https://github.com/Magar0/Magar0/assets/35245789/1ccbdb01-335d-4f84-92dc-f1d8d9406a14" alt="icon"
-        height="50" width="50" /></a>
+        height="50" width="50" /></a> &nbsp;&nbsp;
     <a href="https://instagram.com/rakeshthapa0" target="blank"><img align="center"
         src="https://github.com/Magar0/Magar0/assets/35245789/bdf1af79-2cb4-4a87-97e7-1c57e79d908d" alt="icon"
-        height="40" width="40" /></a>
+        height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href={`mailto:${rakeshmagar0@gmail.com} `} target="blank"><img align="center"
+        src="https://github.com/Magar0/Magar0/assets/35245789/af44db85-bab8-4b38-8ad6-e3e112bef5ba" alt="icon"
+        height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://wa.me/+917002175147/" target="blank"><img align="center"
+        src="https://github.com/Magar0/Magar0/assets/35245789/e0e0f99e-f6b4-45ba-8f23-b8999ccf2db9" alt="icon"
+        height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
