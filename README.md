@@ -12,8 +12,11 @@
 
   - 📫 How to reach me **rakeshmagar0@gmail.com**
 
+  - 👦 My PortFolio
+    https://portfolio-three-eta-89.vercel.app/
+
   - 📄 Know about my experiences
-  [https://www.canva.com/design/DAFtHi0PmqY/NBps3M_2TTxciCsVjaOa3w/view?utm_content=DAFtHi0PmqY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFtHi0PmqY/NBps3M_2TTxciCsVjaOa3w/view?utm_content=DAFtHi0PmqY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+    https://flowcv.com/resume/f92ik9q28t
 
   - ⚡ Fun fact **K-Drama & Anime Lover**
 
