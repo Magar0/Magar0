@@ -13,7 +13,7 @@
   - 📫 How to reach me **rakeshmagar0@gmail.com**
 
   - 👦 My PortFolio
-    https://portfolio-three-eta-89.vercel.app/
+    https://portfolio-rakesh-magar.vercel.app/
 
   - 📄 Know about my experiences
     https://flowcv.com/resume/f92ik9q28t
