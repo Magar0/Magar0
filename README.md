@@ -6,7 +6,7 @@
 
   <br/>
   <br/>
-  - 🌱 I’m currently learning **Full Stack Developer at Alma Better Online.**
+  - 🌱 I’m currently working as ** Full Time Intern at DevTown. **
 
   - 💬 Ask me about **MERN Stack**
 
