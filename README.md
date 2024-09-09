@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi 👋, I'm Rakesh Magar</h1>
-  <h3 align="center">Full Stack Developer(MERN Stack)</h3>
+  <h3 align="center">Full Stack Developer | MERN | React-Native</h3>
   <img align="right" alt="img.gif"
     src="https://github.com/Magar0/Magar0/assets/35245789/3552f2b4-3bfd-44fe-872b-60d9a9b29155" width="350">
 
